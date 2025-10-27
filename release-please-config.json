@@ -1,5 +1,6 @@
 {
   "release-type": "simple",
   "include-v-in-tag": false,
-  "tag-separator": "@"
+  "tag-separator": "@",
+  "skip-github-release": "false"
 }
