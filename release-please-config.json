@@ -1,6 +1,13 @@
 {
-  "release-type": "simple",
+  "release-type": "python",
+  "separate-pull-requests": false,
+  "bump-minor-pre-major": true,
+  "bump-patch-for-minor-pre-major": true,
+  "pull-request-title-pattern": "chore: release ${version}",
+  "pull-request-header": "🚀 **Release Time!** This PR contains the next release for our project.",
+  "pull-request-footer": "---\n\nThis PR was generated automatically by Release Please. 🤖",
   "include-v-in-tag": false,
   "tag-separator": "@",
-  "skip-github-release": "false"
+  "skip-github-release": false,
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
