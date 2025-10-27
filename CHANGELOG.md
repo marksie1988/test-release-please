@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/marksie1988/test-release-please/compare/v1.1.0...v1.1.1) (2025-10-27)
+
+
+### Bug Fixes
+
+* test ([f2cd08b](https://github.com/marksie1988/test-release-please/commit/f2cd08b5b559fcf4f2e310759b422c2e3aeed944))
+
 ## [1.1.0](https://github.com/marksie1988/test-release-please/compare/v1.0.0...v1.1.0) (2025-10-27)
 
 
