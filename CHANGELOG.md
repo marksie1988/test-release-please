@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/marksie1988/test-release-please/compare/v1.0.0...v1.1.0) (2025-10-27)
+
+
+### Features
+
+* amend somefile2 ([cc2b74f](https://github.com/marksie1988/test-release-please/commit/cc2b74f8134b4f77de349c88f11a9bf03f5b728c))
+* amend somefile2 ([e9a339c](https://github.com/marksie1988/test-release-please/commit/e9a339cddee2588e19d473234101c6c1dfdb0051))
+
 ## 1.0.0 (2025-10-27)
 
 
